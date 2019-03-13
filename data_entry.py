@@ -1,6 +1,9 @@
 # This is thew data entry function used to enter data for new users into the recommender system database.
 #Use with caution
 
+def simp():
+    print("Hello World")
+
 def data_entry():
     
     flag = True
